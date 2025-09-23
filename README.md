@@ -54,7 +54,7 @@ I build robust web apps that solve real problems, with a focus on usability, per
 ## GitHub Streats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MidnightDev024&theme=github_dark" />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MidnightDev024&bg_color=0d1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true&area=true&custom_title=Akash's%20Contribution%30Graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MidnightDev024&bg_color=0d1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true&area=true&custom_title=Akash's%20Contribution%20Graph)
 
 <!--
 ### 🧭 [Portfolio Landing Page](https://your-portfolio-link.com)
