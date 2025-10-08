@@ -43,11 +43,11 @@ I build robust web apps that solve real problems, with a focus on usability, per
 
 ## 📂 Featured Projects
 
-### 🔗 [NewsHatch](https://your-live-demo-link.com)
+### 🔗 [NewsHatch](https://news-hatch.vercel.app/)
 > A React-based news aggregator with cursor-based pagination, error handling, and SEO optimization.
 
-### 🎮 [Rock-Paper-Scissors Game](https://your-game-link.com)
-> A fun, deployed mini-game with clean repo structure and GitHub Pages hosting.
+### 🎮 [TextUtils](https://text-utils-kappa-ten.vercel.app/)
+> A react based app to manipulate text in a way you want
 
 </br>
 
