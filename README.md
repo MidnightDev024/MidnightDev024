@@ -49,6 +49,9 @@ I build robust web apps that solve real problems, with a focus on usability, per
 ### 🎮 [TextUtils](https://text-utils-kappa-ten.vercel.app/)
 > A react based app to manipulate text in a way you want
 
+### 🎮 [Kanva](https://text-utils-kappa-ten.vercel.app/)
+> A Chat Application where we talk with our friends
+
 </br>
 
 ## GitHub Streats
