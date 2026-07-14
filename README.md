@@ -1,80 +1,6 @@
-<!-- ![Banner](https://your-banner-image-link.com)  Replace with your actual banner image URL 
-# 👋 Hi, I'm Akash Chawla (he/him)
-
-💻 Full Stack Developer | 🚀 Always shipping | 🔍 Curious about clean architecture & SEO  
-I build robust web apps that solve real problems, with a focus on usability, performance, and discoverability.
-</br>
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MidnightDev024&theme=github_dark" />
-</p>
-
-</br>
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-lightgrey?logo=github)
-![SEO](https://img.shields.io/badge/-SEO-blueviolet?logo=google)
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
-![Figma](https://img.shields.io/badge/-Figma-black?logo=figma)
-![Git Bash](https://img.shields.io/badge/-Git%20Bash-black?logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white)
-
-</br>
-
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MidnightDev024&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MidnightDev024&theme=github_dark" />
-</p>
-
-
-
-
-</br>
-
-## 📂 Featured Projects
-
-### 🔗 [NewsHatch](https://news-hatch.vercel.app/)
-> A React-based news aggregator with cursor-based pagination, error handling, and SEO optimization.
-
-### 🎮 [TextUtils](https://text-utils-kappa-ten.vercel.app/)
-> A react based app to manipulate text in a way you want
-
-### 🎮 [AuraChat](https://text-utils-kappa-ten.vercel.app/)
-> A Chat Application where we talk with our friends
-
-</br>
-
-## GitHub Streats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MidnightDev024&theme=github_dark" />
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MidnightDev024&bg_color=0d1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true&area=true&custom_title=Akash's%20Contribution%20Graph)
-
-<!--
-### 🧭 [Portfolio Landing Page](https://your-portfolio-link.com)
-> Multi-project navigation from a single repo, designed for recruiters and collaborators.
--->
-<!--
-## 📈 GitHub Stats
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MidnightDev024&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MidnightDev024&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidnightDev024&layout=compact&theme=radical&justifycontent=center)
-</br>
-![Visitor Badge](https://komarev.com/ghpvc/?username=MidnightDev024&color=blue)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MidnightDev024&bg_color=0d1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true&area=true&custom_title=Akash's%20Contribution%20Graph)
--->
-
 <!-- =========================  AKASH CHAWLA README ========================= -->
 
-<h1 align="center">Hey 👋, I'm Akash Chawla</h1>
+<!-- <h1 align="center">Hey 👋, I'm Akash Chawla</h1>
 
 <h3 align="center">
 Full Stack Developer • Building cool stuff on the internet • Turning caffeine into code ☕
@@ -233,6 +159,304 @@ const akash = {
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile ❤️</b><br/>
+  <b>Thanks for visiting my profile ❤️</b><br/> 
   If you like my work, give a ⭐ to the repositories you find useful!
 </p>
+-->
+
+
+
+
+
+
+
+
+
+<!-- =========================  AKASH CHAWLA README ========================= -->
+
+<h1 align="center">Hi 👋, I'm Akash Chawla</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | Google Apps Script Developer | AI Enthusiast
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications, automating workflows with Google Apps Script, and creating AI-powered solutions.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Google+Apps+Script+Developer;React+%7C+Node+%7C+MongoDB;Building+AI+Powered+Applications;Always+Learning+New+Technologies+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MidnightDev024&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/MidnightDev024?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/MidnightDev024?style=for-the-badge"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 Final-year **Bachelor of Computer Applications (BCA)** Student
+
+💻 Passionate **Full Stack Developer** focused on building scalable web applications.
+
+⚙️ Experienced in **Google Apps Script** and **Google Workspace Automation**.
+
+🤖 Love building **AI-powered applications** that solve real-world problems.
+
+📚 Currently improving **Data Structures & Algorithms**, **Backend Development**, and **System Design**.
+
+🎯 Looking for opportunities as a **Software Developer** / **Full Stack Developer**.
+
+☕ Fun Fact:
+> I believe every bug teaches something new... eventually 😄
+
+---
+
+# 🚀 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+</p>
+
+### ☁️ Other Technologies
+
+- ⚡ Google Apps Script
+- 🔥 REST APIs
+- 🔐 Authentication & Authorization
+- ☁️ Cloudinary
+- 📦 API Integration
+- 📱 Responsive Web Design
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 EvalAI – AI Interview Agent
+
+AI-powered interview preparation platform designed to help users practice technical interviews.
+
+### ✨ Features
+
+- 🔐 Google Authentication
+- 📄 Resume Upload
+- 🤖 AI-generated Interview Questions
+- 🎤 Voice-based Interview Practice
+- 📊 AI Feedback & Performance Reports
+- 📱 Fully Responsive UI
+
+**Tech Stack**
+
+`React` `Firebase` `Google Authentication`
+
+🔗 **Live Demo**
+
+https://ai-interview-agent-client-bgax.onrender.com/
+
+---
+
+## 📄 SkillVector – AI Resume Screening Platform
+
+An AI-powered resume analysis platform for job seekers and recruiters.
+
+### ✨ Features
+
+- 📄 Resume Parsing
+- 📈 ATS Score
+- 🤖 AI Resume Suggestions
+- 👨‍💼 Recruiter Dashboard
+- 🔒 Secure Authentication
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB` `Express`
+
+---
+
+## 💬 AuraChat
+
+A real-time chat application built using the MERN Stack and Socket.io.
+
+### ✨ Features
+
+- 💬 Live Messaging
+- 👥 Chat Rooms
+- 🖼️ Image Sharing
+- ⚡ Instant Updates using WebSockets
+- 🔒 Authentication
+
+**Tech Stack**
+
+`MongoDB` `Express` `React` `Node.js` `Socket.io`
+
+🔗 **Live Demo**
+
+https://aura-chat-ten.vercel.app/login
+
+---
+
+## 🌐 Personal Portfolio
+
+Modern developer portfolio built using React.
+
+### ✨ Features
+
+- 🚀 Responsive Design
+- 📱 Mobile Friendly
+- ⚡ Fast Loading
+- 🎨 Clean UI
+- 📂 Project Showcase
+
+🔗 **Portfolio**
+
+https://midnightdev024.vercel.app/
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MidnightDev024&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidnightDev024&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MidnightDev024&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MidnightDev024&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MidnightDev024&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MidnightDev024&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+- ⚡ Google Apps Script
+- 🤖 AI Integrations
+- 🏗️ Backend Architecture
+- 📚 Data Structures & Algorithms
+- ☁️ Cloud Computing
+- 🚀 System Design
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://midnightdev024.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MidnightDev024">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akash-chawla-midnightdev024">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:chawlaakash024@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+```javascript
+const akash = {
+    code: ["JavaScript", "TypeScript", "Python", "Google Apps Script"],
+    askMeAbout: [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Firebase",
+        "REST APIs",
+        "Full Stack Development",
+        "Google Workspace Automation"
+    ],
+    currentFocus: "Building impactful software that solves real-world problems.",
+    lifePhilosophy: "Keep learning. Keep building. Keep improving. 🚀"
+};
+```
+
+---
+
+<h3 align="center">
+
+⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+</h3>
+
+<h2 align="center">
+
+Thanks for visiting my profile ❤️
+
+Happy Coding 🚀
+
+</h2>
