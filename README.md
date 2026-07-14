@@ -363,16 +363,6 @@ https://midnightdev024.vercel.app/
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MidnightDev024&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 🌱 Currently Exploring
 
 - ⚡ Google Apps Script
