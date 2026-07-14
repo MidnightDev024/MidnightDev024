@@ -185,7 +185,7 @@ Passionate about building scalable web applications, automating workflows with G
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Google+Apps+Script+Developer;React+%7C+Node+%7C+MongoDB;Building+AI+Powered+Applications;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Google+Apps+Script+Developer;React+%7C+Node+%7C+MongoDB;Building+AI+Powered+Applications;Always+Learning+New+Technologies+🚀"/>
 </p>
 
 <p align="center">
