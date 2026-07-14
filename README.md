@@ -285,24 +285,6 @@ https://ai-interview-agent-client-bgax.onrender.com/
 
 ---
 
-## 📄 SkillVector – AI Resume Screening Platform
-
-An AI-powered resume analysis platform for job seekers and recruiters.
-
-### ✨ Features
-
-- 📄 Resume Parsing
-- 📈 ATS Score
-- 🤖 AI Resume Suggestions
-- 👨‍💼 Recruiter Dashboard
-- 🔒 Secure Authentication
-
-**Tech Stack**
-
-`React` `Node.js` `MongoDB` `Express`
-
----
-
 ## 💬 AuraChat
 
 A real-time chat application built using the MERN Stack and Socket.io.
