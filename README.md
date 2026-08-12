@@ -200,7 +200,7 @@ Passionate about building scalable web applications, automating workflows with G
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 Final-year **Bachelor of Computer Applications (BCA)** Student
+🎓 **Bachelor of Computer Applications (BCA)** Graduate 
 
 💻 Passionate **Full Stack Developer** focused on building scalable web applications.
 
